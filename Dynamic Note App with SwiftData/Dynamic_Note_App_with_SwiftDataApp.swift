@@ -12,6 +12,6 @@ struct Dynamic_Note_App_with_SwiftDataApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
-        }
+        }.modelContainer(for: NoteData.self)
     }
 }

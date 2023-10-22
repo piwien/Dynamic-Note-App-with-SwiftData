@@ -11,6 +11,7 @@
 		A092F5D32AE452B200A53A29 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A092F5D22AE452B200A53A29 /* ContentView.swift */; };
 		A092F5D52AE452B500A53A29 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A092F5D42AE452B500A53A29 /* Assets.xcassets */; };
 		A092F5D82AE452B500A53A29 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A092F5D72AE452B500A53A29 /* Preview Assets.xcassets */; };
+		A0996C182AE4545400AC8685 /* NoteData.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0996C172AE4545400AC8685 /* NoteData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		A092F5D22AE452B200A53A29 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A092F5D42AE452B500A53A29 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A092F5D72AE452B500A53A29 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A0996C172AE4545400AC8685 /* NoteData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoteData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				A092F5D02AE452B200A53A29 /* Dynamic_Note_App_with_SwiftDataApp.swift */,
 				A092F5D22AE452B200A53A29 /* ContentView.swift */,
+				A0996C172AE4545400AC8685 /* NoteData.swift */,
 				A092F5D42AE452B500A53A29 /* Assets.xcassets */,
 				A092F5D62AE452B500A53A29 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A092F5D32AE452B200A53A29 /* ContentView.swift in Sources */,
+				A0996C182AE4545400AC8685 /* NoteData.swift in Sources */,
 				A092F5D12AE452B200A53A29 /* Dynamic_Note_App_with_SwiftDataApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
